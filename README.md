@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KennethWang6
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
 
 <!---
 KennethWang6/KennethWang6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
