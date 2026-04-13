@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KennethWang6
+- 👋 Hi, I’m @KennethWang6, Software Engineering Co-op at McGill
 - 👀 I’m interested in programming
 
 <!---
